@@ -6,4 +6,5 @@ ooomap 为各种常用的制图软件提供了对应的导出工具, 这样用�
 此插件目前支持导出体块数据, 路线数据以及设置体块类型
 需要本机安装 IE11 , 并需要如下设置
 支持 2010 及以上版本的 3dsMax
+![image](https://github.com/tangyajun/ooomap-indoor-demo/master/stream.png)
 
